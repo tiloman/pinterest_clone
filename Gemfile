@@ -14,7 +14,6 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'bootstrap', '~> 4.3.1'
-gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
 gem 'bootsnap', '>= 1.1.0', require: false
 
