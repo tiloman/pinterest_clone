@@ -15,6 +15,13 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'bootstrap', '~> 4.3.1'
 gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
+gem 'paperclip', '~> 6.1'
+gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks', '~> 2.1'
+gem 'will_paginate', '~> 3.1', '>= 3.1.7'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.2'
+
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
